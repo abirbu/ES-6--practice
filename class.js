@@ -6,7 +6,7 @@ class friends {
     }
 }
 
-const Basu = new friends('Basu', 01785569963);
-const Hridoy =new friends('Hridoy', 01799247210);
+const Basu = new friends('Basu', '01785569963');
+const Hridoy =new friends('Hridoy', '01799247210');
 
 console.log(Basu, Hridoy);
